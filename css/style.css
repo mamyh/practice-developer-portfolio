@@ -25,3 +25,15 @@ p{
 .half-width img{
     width: 80%;
 }
+.btn{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    background-image: linear-gradient(orange,tomato);
+    padding:10px 40px;
+    margin-top:15px;
+    display: inline-block;
+    border-radius: 5px;
+    color:white;
+}
