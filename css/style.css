@@ -1,0 +1,27 @@
+body{
+    font-family: 'Yomogi', cursive,sans-serif;
+    margin:0;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    text-align: justify;
+}
+.flexible-container{
+    display: flex;
+}
+.top-banner{
+   background-image: url(../images/top-banner.png);
+   background-repeat: no-repeat;
+}
+.orange{
+    color:orange;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
